@@ -1,0 +1,2 @@
+# Linux_ARM_1
+ARM平台搭载linux使用时出现的问题及解决办法
